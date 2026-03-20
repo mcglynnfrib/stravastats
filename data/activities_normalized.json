@@ -35501,5 +35501,31 @@
     "start_date_local": "2026-03-18T19:00:55Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 8265.6,
+    "elevation_gain": 18.0,
+    "id": "17785084481",
+    "moving_time": 2322.0,
+    "name": "Tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-19T18:04:55Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 4408.0,
+    "elevation_gain": 17.0,
+    "id": "17791052574",
+    "moving_time": 1589.0,
+    "name": "East Lansing jogging",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-20T09:04:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
