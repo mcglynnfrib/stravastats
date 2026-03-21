@@ -24596,6 +24596,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17791052574",
       "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 17,
+      "name": "East Lansing jogging",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17796127652",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 9,
+      "name": "Half with progression",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17804176602",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42148,12 +42166,22 @@
         },
         "2026-03-20": {
           "activity_ids": [
-            "17791052574"
+            "17791052574",
+            "17796127652"
+          ],
+          "count": 2,
+          "distance": 8448.4,
+          "elevation_gain": 27.0,
+          "moving_time": 3021.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17804176602"
           ],
           "count": 1,
-          "distance": 4408.0,
-          "elevation_gain": 17.0,
-          "moving_time": 1589.0
+          "distance": 21119.9,
+          "elevation_gain": 82.0,
+          "moving_time": 6244.0
         }
       },
       "TrailRun": {
@@ -42281,7 +42309,7 @@
       }
     }
   },
-  "generated_at": "2026-03-20T15:36:22.508084+00:00",
+  "generated_at": "2026-03-21T15:18:58.167652+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
