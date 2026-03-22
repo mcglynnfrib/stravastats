@@ -35553,5 +35553,18 @@
     "start_date_local": "2026-03-21T09:05:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 8883.1,
+    "elevation_gain": 40.0,
+    "id": "17817165794",
+    "moving_time": 3307.0,
+    "name": "East Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T09:35:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
