@@ -35605,5 +35605,31 @@
     "start_date_local": "2026-03-25T09:20:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 4655.6,
+    "elevation_gain": 29.0,
+    "id": "17859026624",
+    "moving_time": 732.0,
+    "name": "Ride from work",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-25T18:06:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-25",
+    "distance": 7512.4,
+    "elevation_gain": 46.0,
+    "id": "17859589585",
+    "moving_time": 2554.0,
+    "name": "East Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-25T18:37:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
