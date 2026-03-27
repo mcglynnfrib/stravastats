@@ -24668,6 +24668,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17859589585",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 19,
+      "name": "Drop set speed day",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17872036655",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42273,6 +42282,15 @@
           "distance": 7512.4,
           "elevation_gain": 46.0,
           "moving_time": 2554.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17872036655"
+          ],
+          "count": 1,
+          "distance": 11272.4,
+          "elevation_gain": 28.0,
+          "moving_time": 3380.0
         }
       },
       "TrailRun": {
@@ -42409,7 +42427,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:05:23.969901+00:00",
+  "generated_at": "2026-03-27T15:44:04.980651+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

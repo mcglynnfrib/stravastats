@@ -35631,5 +35631,18 @@
     "start_date_local": "2026-03-25T18:37:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-26",
+    "distance": 11272.4,
+    "elevation_gain": 28.0,
+    "id": "17872036655",
+    "moving_time": 3380.0,
+    "name": "Drop set speed day",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-26T19:46:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
