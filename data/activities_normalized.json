@@ -35644,5 +35644,31 @@
     "start_date_local": "2026-03-26T19:46:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 5783.0,
+    "elevation_gain": 23.0,
+    "id": "17882208680",
+    "moving_time": 2021.0,
+    "name": "East Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T19:02:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 22292.0,
+    "elevation_gain": 77.0,
+    "id": "17889928575",
+    "moving_time": 7301.0,
+    "name": "East Lansing long run Saturday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-28T09:05:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
