@@ -24695,6 +24695,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17889928575",
       "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17904332646",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 13,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/17905045367",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17905394888",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41717,6 +41744,16 @@
           "distance": 9080.8,
           "elevation_gain": 61.0,
           "moving_time": 1438.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17904332646",
+            "17905394888"
+          ],
+          "count": 2,
+          "distance": 28795.1,
+          "elevation_gain": 197.0,
+          "moving_time": 4210.0
         }
       },
       "Run": {
@@ -42365,6 +42402,15 @@
           "distance": 8491.9,
           "elevation_gain": 335.0,
           "moving_time": 3334.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17905045367"
+          ],
+          "count": 1,
+          "distance": 11178.0,
+          "elevation_gain": 99.0,
+          "moving_time": 4171.0
         }
       },
       "Walk": {
@@ -42463,7 +42509,7 @@
       }
     }
   },
-  "generated_at": "2026-03-29T15:24:03.880471+00:00",
+  "generated_at": "2026-03-30T16:01:57.990348+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
