@@ -35722,5 +35722,18 @@
     "start_date_local": "2026-03-30T19:07:53Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 10152.4,
+    "elevation_gain": 58.0,
+    "id": "17931453771",
+    "moving_time": 3337.0,
+    "name": "Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-31T18:20:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
