@@ -24812,6 +24812,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18034101613",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 18,
+      "name": "Tempo attempt",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18047573556",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42517,6 +42526,15 @@
           "distance": 8944.6,
           "elevation_gain": 66.0,
           "moving_time": 3207.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18047573556"
+          ],
+          "count": 1,
+          "distance": 10481.9,
+          "elevation_gain": 47.0,
+          "moving_time": 3071.0
         }
       },
       "TrailRun": {
@@ -42689,7 +42707,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:14:14.473931+00:00",
+  "generated_at": "2026-04-10T15:42:48.205022+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
