@@ -24839,6 +24839,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18068009068",
       "year": 2026
+    },
+    {
+      "date": "2026-04-11",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18071228939",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 9,
+      "name": "East Lansing long run Sunday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18081080665",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -41871,6 +41889,15 @@
           "distance": 28795.1,
           "elevation_gain": 197.0,
           "moving_time": 4210.0
+        },
+        "2026-04-11": {
+          "activity_ids": [
+            "18071228939"
+          ],
+          "count": 1,
+          "distance": 24447.3,
+          "elevation_gain": 133.0,
+          "moving_time": 3312.0
         }
       },
       "Run": {
@@ -42571,6 +42598,15 @@
           "distance": 22755.5,
           "elevation_gain": 126.0,
           "moving_time": 7528.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18081080665"
+          ],
+          "count": 1,
+          "distance": 13112.1,
+          "elevation_gain": 83.0,
+          "moving_time": 4586.0
         }
       },
       "TrailRun": {
@@ -42743,7 +42779,7 @@
       }
     }
   },
-  "generated_at": "2026-04-11T15:25:38.056192+00:00",
+  "generated_at": "2026-04-12T15:29:34.725625+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

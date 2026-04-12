@@ -35878,5 +35878,31 @@
     "start_date_local": "2026-04-11T09:05:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 24447.3,
+    "elevation_gain": 133.0,
+    "id": "18071228939",
+    "moving_time": 3312.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T15:32:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 13112.1,
+    "elevation_gain": 83.0,
+    "id": "18081080665",
+    "moving_time": 4586.0,
+    "name": "East Lansing long run Sunday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T09:28:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
