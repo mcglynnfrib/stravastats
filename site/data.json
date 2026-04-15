@@ -24875,6 +24875,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18098518043",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 18,
+      "name": "Progression tempo",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18111785051",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42634,6 +42643,15 @@
           "distance": 13112.1,
           "elevation_gain": 83.0,
           "moving_time": 4586.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18111785051"
+          ],
+          "count": 1,
+          "distance": 10040.2,
+          "elevation_gain": 47.0,
+          "moving_time": 2950.0
         }
       },
       "TrailRun": {
@@ -42815,7 +42833,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:03:18.004554+00:00",
+  "generated_at": "2026-04-15T16:00:57.872840+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
