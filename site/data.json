@@ -24884,6 +24884,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18111785051",
       "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 18,
+      "name": "Lansing running",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18125484002",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42652,6 +42661,15 @@
           "distance": 10040.2,
           "elevation_gain": 47.0,
           "moving_time": 2950.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18125484002"
+          ],
+          "count": 1,
+          "distance": 12011.0,
+          "elevation_gain": 71.0,
+          "moving_time": 4268.0
         }
       },
       "TrailRun": {
@@ -42833,7 +42851,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:00:57.872840+00:00",
+  "generated_at": "2026-04-16T16:17:28.552605+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

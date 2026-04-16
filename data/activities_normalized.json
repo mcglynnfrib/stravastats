@@ -35943,5 +35943,18 @@
     "start_date_local": "2026-04-14T18:20:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 12011.0,
+    "elevation_gain": 71.0,
+    "id": "18125484002",
+    "moving_time": 4268.0,
+    "name": "Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T18:29:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
