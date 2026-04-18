@@ -35969,5 +35969,31 @@
     "start_date_local": "2026-04-16T18:54:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 10499.8,
+    "elevation_gain": 39.0,
+    "id": "18151296088",
+    "moving_time": 3814.0,
+    "name": "River trail so flooded",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-17T19:03:48Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 23165.4,
+    "elevation_gain": 120.0,
+    "id": "18159460452",
+    "moving_time": 7269.0,
+    "name": "East Lansing long run Saturday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T08:29:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
