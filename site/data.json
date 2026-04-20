@@ -24929,6 +24929,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18164521689",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 9,
+      "name": "East Lansing running",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18175509403",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42742,6 +42751,15 @@
           "distance": 23165.4,
           "elevation_gain": 120.0,
           "moving_time": 7269.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18175509403"
+          ],
+          "count": 1,
+          "distance": 9177.2,
+          "elevation_gain": 54.0,
+          "moving_time": 3182.0
         }
       },
       "TrailRun": {
@@ -42923,7 +42941,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:31:14.750650+00:00",
+  "generated_at": "2026-04-20T16:02:55.720382+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
