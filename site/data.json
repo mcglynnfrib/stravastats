@@ -24947,6 +24947,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18190397548",
       "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 18,
+      "name": "400m reps",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18204943782",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-22",
+      "hour": 8,
+      "name": "Ride to work",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18211629766",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -42006,6 +42024,15 @@
           "distance": 9828.8,
           "elevation_gain": 79.0,
           "moving_time": 1559.0
+        },
+        "2026-04-22": {
+          "activity_ids": [
+            "18211629766"
+          ],
+          "count": 1,
+          "distance": 4457.0,
+          "elevation_gain": 27.0,
+          "moving_time": 669.0
         }
       },
       "Run": {
@@ -42778,6 +42805,15 @@
           "distance": 6882.8,
           "elevation_gain": 20.0,
           "moving_time": 2346.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18204943782"
+          ],
+          "count": 1,
+          "distance": 8655.6,
+          "elevation_gain": 45.0,
+          "moving_time": 2653.0
         }
       },
       "TrailRun": {
@@ -42959,7 +42995,7 @@
       }
     }
   },
-  "generated_at": "2026-04-21T16:05:58.965825+00:00",
+  "generated_at": "2026-04-22T16:04:10.698784+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

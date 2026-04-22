@@ -36034,5 +36034,31 @@
     "start_date_local": "2026-04-20T18:10:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 8655.6,
+    "elevation_gain": 45.0,
+    "id": "18204943782",
+    "moving_time": 2653.0,
+    "name": "400m reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T18:20:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 4457.0,
+    "elevation_gain": 27.0,
+    "id": "18211629766",
+    "moving_time": 669.0,
+    "name": "Ride to work",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T08:55:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
