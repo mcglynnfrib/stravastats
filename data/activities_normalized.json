@@ -36151,5 +36151,44 @@
     "start_date_local": "2026-04-25T09:05:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 5074.2,
+    "elevation_gain": 19.0,
+    "id": "18267468067",
+    "moving_time": 1153.0,
+    "name": "Izzo 5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T10:01:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 2285.8,
+    "elevation_gain": 9.0,
+    "id": "18267468084",
+    "moving_time": 765.0,
+    "name": "East Lansing jogging",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T09:31:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 1701.6,
+    "elevation_gain": 1.0,
+    "id": "18267468416",
+    "moving_time": 597.0,
+    "name": "East Lansing jogging",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-26T10:34:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
