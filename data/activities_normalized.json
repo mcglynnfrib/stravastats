@@ -36203,5 +36203,31 @@
     "start_date_local": "2026-04-27T19:13:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 8888.2,
+    "elevation_gain": 55.0,
+    "id": "18298139415",
+    "moving_time": 1279.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-28T09:12:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 10011.2,
+    "elevation_gain": 41.0,
+    "id": "18299158399",
+    "moving_time": 3270.0,
+    "name": "Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-28T18:20:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
