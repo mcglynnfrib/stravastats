@@ -36255,5 +36255,31 @@
     "start_date_local": "2026-04-30T07:28:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 34082.6,
+    "elevation_gain": 84.0,
+    "id": "18325404233",
+    "moving_time": 5682.0,
+    "name": "Tour de Lansing",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-30T18:00:39Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 5091.0,
+    "elevation_gain": 13.0,
+    "id": "18331981033",
+    "moving_time": 1768.0,
+    "name": "East Lansing running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T07:53:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
