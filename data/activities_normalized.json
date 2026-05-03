@@ -36281,5 +36281,18 @@
     "start_date_local": "2026-05-01T07:53:19Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 11043.8,
+    "elevation_gain": 126.0,
+    "id": "18348906271",
+    "moving_time": 3818.0,
+    "name": "Parc de Sceaux run to combat jetlag",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-02T17:23:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
