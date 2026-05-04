@@ -36294,5 +36294,18 @@
     "start_date_local": "2026-05-02T17:23:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 13316.3,
+    "elevation_gain": 173.0,
+    "id": "18362665098",
+    "moving_time": 4802.0,
+    "name": "Antony long run Sunday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T17:23:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
