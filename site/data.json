@@ -25145,6 +25145,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18376848240",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 19,
+      "name": "Antony long run Tuesday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18389971221",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43115,6 +43124,15 @@
           "distance": 13316.3,
           "elevation_gain": 173.0,
           "moving_time": 4802.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18389971221"
+          ],
+          "count": 1,
+          "distance": 14666.0,
+          "elevation_gain": 147.0,
+          "moving_time": 5043.0
         }
       },
       "TrailRun": {
@@ -43323,7 +43341,7 @@
       }
     }
   },
-  "generated_at": "2026-05-05T16:19:21.765099+00:00",
+  "generated_at": "2026-05-06T16:24:04.657969+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

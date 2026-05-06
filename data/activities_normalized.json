@@ -36320,5 +36320,18 @@
     "start_date_local": "2026-05-04T21:43:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 14666.0,
+    "elevation_gain": 147.0,
+    "id": "18389971221",
+    "moving_time": 5043.0,
+    "name": "Antony long run Tuesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T19:45:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
