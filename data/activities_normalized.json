@@ -36333,5 +36333,31 @@
     "start_date_local": "2026-05-05T19:45:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 9974.3,
+    "elevation_gain": 68.0,
+    "id": "18403452549",
+    "moving_time": 3144.0,
+    "name": "Antony running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-06T20:11:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 10050.1,
+    "elevation_gain": 23.0,
+    "id": "18409221091",
+    "moving_time": 3503.0,
+    "name": "Parc de Sceaux running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T09:49:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
