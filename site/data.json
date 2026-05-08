@@ -25172,6 +25172,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18409221091",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 13,
+      "name": "Antony running",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18424887102",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43169,6 +43178,15 @@
           "distance": 10050.1,
           "elevation_gain": 23.0,
           "moving_time": 3503.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18424887102"
+          ],
+          "count": 1,
+          "distance": 9535.5,
+          "elevation_gain": 56.0,
+          "moving_time": 3310.0
         }
       },
       "TrailRun": {
@@ -43377,7 +43395,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:43:59.500338+00:00",
+  "generated_at": "2026-05-08T16:09:47.711942+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
