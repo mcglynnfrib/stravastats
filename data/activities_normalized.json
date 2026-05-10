@@ -36385,5 +36385,18 @@
     "start_date_local": "2026-05-08T18:34:39Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 23597.0,
+    "elevation_gain": 382.0,
+    "id": "18441028764",
+    "moving_time": 8896.0,
+    "name": "For\u00eat de Meudon long run",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-05-09T15:23:35Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
