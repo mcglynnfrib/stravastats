@@ -36437,5 +36437,18 @@
     "start_date_local": "2026-05-12T19:38:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 11499.8,
+    "elevation_gain": 142.0,
+    "id": "18494855332",
+    "moving_time": 4142.0,
+    "name": "Antony running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T19:53:41Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
