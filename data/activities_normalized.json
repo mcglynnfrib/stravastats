@@ -36476,5 +36476,31 @@
     "start_date_local": "2026-05-15T18:48:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 22739.5,
+    "elevation_gain": 131.0,
+    "id": "18531908957",
+    "moving_time": 7884.0,
+    "name": "Paris long run Saturday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T15:58:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 7109.6,
+    "elevation_gain": 64.0,
+    "id": "18538246474",
+    "moving_time": 2542.0,
+    "name": "Antony running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T09:08:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
