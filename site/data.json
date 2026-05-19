@@ -25271,6 +25271,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18538246474",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 22,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18559947445",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 7,
+      "name": "Trento 800m reps",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18563711106",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43351,6 +43369,15 @@
           "distance": 7109.6,
           "elevation_gain": 64.0,
           "moving_time": 2542.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18563711106"
+          ],
+          "count": 1,
+          "distance": 9975.2,
+          "elevation_gain": 28.0,
+          "moving_time": 3080.0
         }
       },
       "TrailRun": {
@@ -43573,11 +43600,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2847.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18559947445"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 207.0
         }
       }
     }
   },
-  "generated_at": "2026-05-18T17:26:47.557117+00:00",
+  "generated_at": "2026-05-19T17:34:40.950484+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",

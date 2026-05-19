@@ -36502,5 +36502,31 @@
     "start_date_local": "2026-05-17T09:08:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18559947445",
+    "moving_time": 207.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-18T22:40:21Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 9975.2,
+    "elevation_gain": 28.0,
+    "id": "18563711106",
+    "moving_time": 3080.0,
+    "name": "Trento 800m reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T07:03:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
