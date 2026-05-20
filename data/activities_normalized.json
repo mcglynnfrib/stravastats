@@ -36528,5 +36528,18 @@
     "start_date_local": "2026-05-19T07:03:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 13481.5,
+    "elevation_gain": 53.0,
+    "id": "18577862652",
+    "moving_time": 4609.0,
+    "name": "Trento long run Wednesday",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-20T07:24:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
