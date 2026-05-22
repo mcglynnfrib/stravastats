@@ -25298,6 +25298,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18577862652",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 18,
+      "name": "Trento running",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18598290862",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43396,6 +43405,15 @@
           "distance": 13481.5,
           "elevation_gain": 53.0,
           "moving_time": 4609.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18598290862"
+          ],
+          "count": 1,
+          "distance": 10981.9,
+          "elevation_gain": 47.0,
+          "moving_time": 3691.0
         }
       },
       "TrailRun": {
@@ -43631,7 +43649,7 @@
       }
     }
   },
-  "generated_at": "2026-05-21T17:27:24.160985+00:00",
+  "generated_at": "2026-05-22T17:03:06.981908+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
