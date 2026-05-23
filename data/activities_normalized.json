@@ -36554,5 +36554,18 @@
     "start_date_local": "2026-05-21T18:33:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 9700.8,
+    "elevation_gain": 35.0,
+    "id": "18610846586",
+    "moving_time": 3285.0,
+    "name": "Trento running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T18:12:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
