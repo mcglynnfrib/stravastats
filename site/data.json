@@ -25325,6 +25325,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18626293206",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 18,
+      "name": "Antony long run Sunday",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18639292712",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 16,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18649055335",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43450,6 +43468,15 @@
           "distance": 7578.9,
           "elevation_gain": 72.0,
           "moving_time": 2786.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18639292712"
+          ],
+          "count": 1,
+          "distance": 19029.3,
+          "elevation_gain": 199.0,
+          "moving_time": 6358.0
         }
       },
       "TrailRun": {
@@ -43681,11 +43708,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 207.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18649055335"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3080.0
         }
       }
     }
   },
-  "generated_at": "2026-05-24T15:56:23.207810+00:00",
+  "generated_at": "2026-05-25T17:00:48.406667+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
