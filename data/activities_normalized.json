@@ -36606,5 +36606,18 @@
     "start_date_local": "2026-05-25T16:14:01Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 11025.1,
+    "elevation_gain": 62.0,
+    "id": "18656976716",
+    "moving_time": 3626.0,
+    "name": "Antony running",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T07:08:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
