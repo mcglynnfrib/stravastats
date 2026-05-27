@@ -25352,6 +25352,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18656976716",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 7,
+      "name": "Tempo on/off",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18670656739",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43495,6 +43504,15 @@
           "distance": 11025.1,
           "elevation_gain": 62.0,
           "moving_time": 3626.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18670656739"
+          ],
+          "count": 1,
+          "distance": 9487.8,
+          "elevation_gain": 14.0,
+          "moving_time": 2810.0
         }
       },
       "TrailRun": {
@@ -43739,7 +43757,7 @@
       }
     }
   },
-  "generated_at": "2026-05-26T17:51:52.054343+00:00",
+  "generated_at": "2026-05-27T17:53:16.223228+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
