@@ -36684,5 +36684,18 @@
     "start_date_local": "2026-05-30T07:30:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 26370.8,
+    "elevation_gain": 92.0,
+    "id": "18731449995",
+    "moving_time": 8536.0,
+    "name": "Seine long run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T15:29:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
