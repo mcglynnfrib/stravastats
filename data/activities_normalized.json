@@ -36710,5 +36710,31 @@
     "start_date_local": "2026-06-01T20:03:14Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 12010.9,
+    "elevation_gain": 128.0,
+    "id": "18759968119",
+    "moving_time": 4165.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T19:29:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 8250.1,
+    "elevation_gain": 21.0,
+    "id": "18765648654",
+    "moving_time": 2508.0,
+    "name": "Tempo 2-1-1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T07:15:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
