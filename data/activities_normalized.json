@@ -36840,5 +36840,18 @@
     "start_date_local": "2026-06-09T06:21:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 11606.1,
+    "elevation_gain": 50.0,
+    "id": "18867964838",
+    "moving_time": 3849.0,
+    "name": "Speed sets",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T17:25:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
