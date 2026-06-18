@@ -25523,6 +25523,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18881872255",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18953603805",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 21,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18963153164",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18967716273",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43812,6 +43839,24 @@
           "distance": 12334.8,
           "elevation_gain": 44.0,
           "moving_time": 4070.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18953603805"
+          ],
+          "count": 1,
+          "distance": 6625.3,
+          "elevation_gain": 75.0,
+          "moving_time": 2377.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18967716273"
+          ],
+          "count": 1,
+          "distance": 12012.1,
+          "elevation_gain": 74.0,
+          "moving_time": 4267.0
         }
       },
       "TrailRun": {
@@ -44079,11 +44124,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1513.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18963153164"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2287.0
         }
       }
     }
   },
-  "generated_at": "2026-06-16T16:32:32.391585+00:00",
+  "generated_at": "2026-06-18T16:09:54.761151+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
