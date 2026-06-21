@@ -36918,5 +36918,31 @@
     "start_date_local": "2026-06-19T08:17:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 17422.0,
+    "elevation_gain": 0.0,
+    "id": "19000577595",
+    "moving_time": 6479.0,
+    "name": "Evening Treadmill run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T18:18:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 13036.7,
+    "elevation_gain": 154.0,
+    "id": "19005031813",
+    "moving_time": 4669.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T06:12:53Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -25559,6 +25559,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18980854756",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 18,
+      "name": "Evening Treadmill run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19000577595",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19005031813",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43875,6 +43893,24 @@
           "distance": 10333.5,
           "elevation_gain": 36.0,
           "moving_time": 3579.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19000577595"
+          ],
+          "count": 1,
+          "distance": 17422.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6479.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19005031813"
+          ],
+          "count": 1,
+          "distance": 13036.7,
+          "elevation_gain": 154.0,
+          "moving_time": 4669.0
         }
       },
       "TrailRun": {
@@ -44155,7 +44191,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T15:32:52.353250+00:00",
+  "generated_at": "2026-06-21T15:33:52.987952+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
