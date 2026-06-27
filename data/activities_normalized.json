@@ -37003,10 +37003,23 @@
     "elevation_gain": 0.0,
     "id": "19065625016",
     "moving_time": 3935.0,
-    "name": "Evening Run",
+    "name": "Treadmill",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-06-25T20:20:23Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 5625.8,
+    "elevation_gain": 0.0,
+    "id": "19077064041",
+    "moving_time": 2119.0,
+    "name": "Tempo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T20:47:01Z",
     "type": "Run",
     "year": 2026
   }
