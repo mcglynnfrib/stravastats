@@ -37022,5 +37022,31 @@
     "start_date_local": "2026-06-26T20:47:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19089162832",
+    "moving_time": 15834.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-06-27T15:44:39Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 15576.3,
+    "elevation_gain": 160.9,
+    "id": "19089671501",
+    "moving_time": 2956.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-06-27T20:19:57Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
