@@ -37048,5 +37048,18 @@
     "start_date_local": "2026-06-27T20:19:57Z",
     "type": "EBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 13014.5,
+    "elevation_gain": 96.0,
+    "id": "19103362346",
+    "moving_time": 3667.0,
+    "name": "Post-heatwave euphoria",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T21:37:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

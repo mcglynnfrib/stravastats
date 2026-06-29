@@ -25649,6 +25649,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19089671501",
       "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 21,
+      "name": "Post-heatwave euphoria",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19103362346",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44046,6 +44055,15 @@
           "distance": 5625.8,
           "elevation_gain": 0.0,
           "moving_time": 2119.0
+        },
+        "2026-06-28": {
+          "activity_ids": [
+            "19103362346"
+          ],
+          "count": 1,
+          "distance": 13014.5,
+          "elevation_gain": 96.0,
+          "moving_time": 3667.0
         }
       },
       "TrailRun": {
@@ -44335,7 +44353,7 @@
       }
     }
   },
-  "generated_at": "2026-06-28T15:27:37.607116+00:00",
+  "generated_at": "2026-06-29T16:17:10.844326+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
