@@ -37165,5 +37165,31 @@
     "start_date_local": "2026-07-05T17:35:31Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19205805737",
+    "moving_time": 3485.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-06T21:11:42Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 10061.5,
+    "elevation_gain": 62.0,
+    "id": "19210140475",
+    "moving_time": 3236.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T07:15:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
