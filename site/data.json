@@ -25775,6 +25775,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19252796891",
       "year": 2026
+    },
+    {
+      "date": "2026-07-10",
+      "hour": 20,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19259895184",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19263648097",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44280,6 +44298,15 @@
           "distance": 8556.0,
           "elevation_gain": 85.0,
           "moving_time": 2924.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19263648097"
+          ],
+          "count": 1,
+          "distance": 5375.8,
+          "elevation_gain": 19.0,
+          "moving_time": 1880.0
         }
       },
       "TrailRun": {
@@ -44583,11 +44610,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3485.0
+        },
+        "2026-07-10": {
+          "activity_ids": [
+            "19259895184"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2509.0
         }
       }
     }
   },
-  "generated_at": "2026-07-10T15:46:31.311095+00:00",
+  "generated_at": "2026-07-11T15:20:53.963592+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
