@@ -25802,6 +25802,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19296716383",
       "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19332688296",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44316,6 +44325,15 @@
           "distance": 5375.8,
           "elevation_gain": 19.0,
           "moving_time": 1880.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19332688296"
+          ],
+          "count": 1,
+          "distance": 10039.2,
+          "elevation_gain": 73.0,
+          "moving_time": 3572.0
         }
       },
       "TrailRun": {
@@ -44641,7 +44659,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T15:30:13.484713+00:00",
+  "generated_at": "2026-07-16T15:31:21.084068+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
