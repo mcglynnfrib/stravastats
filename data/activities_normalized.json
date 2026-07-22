@@ -37334,5 +37334,18 @@
     "start_date_local": "2026-07-21T06:26:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 64303.4,
+    "elevation_gain": 706.0,
+    "id": "19419181545",
+    "moving_time": 13110.0,
+    "name": "There's fuckin Germans everywhere",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-22T09:41:21Z",
+    "type": "EBikeRide",
+    "year": 2026
   }
 ]
