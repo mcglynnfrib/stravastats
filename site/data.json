@@ -25856,6 +25856,15 @@
       "type": "EBikeRide",
       "url": "https://www.strava.com/activities/19419181545",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19431068416",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44509,6 +44518,15 @@
           "distance": 3867.6,
           "elevation_gain": 28.0,
           "moving_time": 2275.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19431068416"
+          ],
+          "count": 1,
+          "distance": 3145.2,
+          "elevation_gain": 37.0,
+          "moving_time": 2695.0
         }
       },
       "WeightTraining": {
@@ -44749,7 +44767,7 @@
       }
     }
   },
-  "generated_at": "2026-07-22T15:31:25.026222+00:00",
+  "generated_at": "2026-07-23T15:38:19.342194+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
