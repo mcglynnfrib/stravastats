@@ -37438,5 +37438,18 @@
     "start_date_local": "2026-07-31T15:35:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 6162.8,
+    "elevation_gain": 57.0,
+    "id": "19552327413",
+    "moving_time": 1651.0,
+    "name": "Marlay parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-01T09:17:55Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

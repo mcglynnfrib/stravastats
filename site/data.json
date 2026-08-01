@@ -25919,6 +25919,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19543757334",
       "year": 2026
+    },
+    {
+      "date": "2026-08-01",
+      "hour": 9,
+      "name": "Marlay parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19552327413",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44532,6 +44541,15 @@
           "distance": 14009.3,
           "elevation_gain": 72.0,
           "moving_time": 4490.0
+        },
+        "2026-08-01": {
+          "activity_ids": [
+            "19552327413"
+          ],
+          "count": 1,
+          "distance": 6162.8,
+          "elevation_gain": 57.0,
+          "moving_time": 1651.0
         }
       },
       "TrailRun": {
@@ -44875,7 +44893,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T15:41:47.680468+00:00",
+  "generated_at": "2026-08-01T15:22:12.324674+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
