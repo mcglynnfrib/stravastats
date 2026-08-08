@@ -37503,5 +37503,31 @@
     "start_date_local": "2026-08-06T16:54:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 5017.4,
+    "elevation_gain": 5.0,
+    "id": "19646393619",
+    "moving_time": 1205.0,
+    "name": "Batemans bay parkrun",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-08T07:59:31Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 20554.0,
+    "elevation_gain": 391.0,
+    "id": "19649215825",
+    "moving_time": 16522.0,
+    "name": "Murramarang coastal walk",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-08-08T10:18:24Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
