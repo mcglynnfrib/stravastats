@@ -25982,6 +25982,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19649215825",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 9,
+      "name": "Murramarang trail pt2",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19662899310",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43023,6 +43032,15 @@
           "distance": 20554.0,
           "elevation_gain": 391.0,
           "moving_time": 16522.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19662899310"
+          ],
+          "count": 1,
+          "distance": 17282.2,
+          "elevation_gain": 443.0,
+          "moving_time": 14677.0
         }
       },
       "Ride": {
@@ -45003,7 +45021,7 @@
       }
     }
   },
-  "generated_at": "2026-08-08T15:20:48.915539+00:00",
+  "generated_at": "2026-08-09T15:22:18.248879+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
