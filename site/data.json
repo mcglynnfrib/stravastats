@@ -25991,6 +25991,15 @@
       "type": "Hike",
       "url": "https://www.strava.com/activities/19662899310",
       "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 15,
+      "name": "Afternoon Trail Run",
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "url": "https://www.strava.com/activities/19676763232",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44725,6 +44734,15 @@
           "distance": 23597.0,
           "elevation_gain": 382.0,
           "moving_time": 8896.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19676763232"
+          ],
+          "count": 1,
+          "distance": 9547.0,
+          "elevation_gain": 238.0,
+          "moving_time": 3273.0
         }
       },
       "Walk": {
@@ -45021,7 +45039,7 @@
       }
     }
   },
-  "generated_at": "2026-08-09T15:22:18.248879+00:00",
+  "generated_at": "2026-08-10T15:51:56.957472+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
