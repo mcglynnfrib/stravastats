@@ -26171,6 +26171,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/19983321624",
       "year": 2026
+    },
+    {
+      "date": "2026-09-01",
+      "hour": 18,
+      "name": "\"Speed\"work",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19997776847",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44993,6 +45002,15 @@
           "distance": 8793.9,
           "elevation_gain": 65.0,
           "moving_time": 3179.0
+        },
+        "2026-09-01": {
+          "activity_ids": [
+            "19997776847"
+          ],
+          "count": 1,
+          "distance": 8603.2,
+          "elevation_gain": 39.0,
+          "moving_time": 2771.0
         }
       },
       "TrailRun": {
@@ -45381,7 +45399,7 @@
       }
     }
   },
-  "generated_at": "2026-09-01T18:04:13.414219+00:00",
+  "generated_at": "2026-09-02T18:15:53.406861+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
