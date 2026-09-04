@@ -26189,6 +26189,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20013470970",
       "year": 2026
+    },
+    {
+      "date": "2026-09-03",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20026959270",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45020,6 +45029,15 @@
           "distance": 8603.2,
           "elevation_gain": 39.0,
           "moving_time": 2771.0
+        },
+        "2026-09-03": {
+          "activity_ids": [
+            "20026959270"
+          ],
+          "count": 1,
+          "distance": 12994.0,
+          "elevation_gain": 44.0,
+          "moving_time": 4343.0
         }
       },
       "TrailRun": {
@@ -45417,7 +45435,7 @@
       }
     }
   },
-  "generated_at": "2026-09-03T18:15:32.669939+00:00",
+  "generated_at": "2026-09-04T17:55:42.592637+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
