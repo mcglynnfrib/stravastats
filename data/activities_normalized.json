@@ -37880,5 +37880,31 @@
     "start_date_local": "2026-09-06T13:17:17Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20080068531",
+    "moving_time": 5035.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-09-07T15:33:22Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 14497.9,
+    "elevation_gain": 73.0,
+    "id": "20080294294",
+    "moving_time": 2246.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-07T15:07:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
