@@ -38049,5 +38049,18 @@
     "start_date_local": "2026-09-14T17:53:33Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-09-15",
+    "distance": 10300.6,
+    "elevation_gain": 38.0,
+    "id": "20192607316",
+    "moving_time": 3240.0,
+    "name": "2x mile reps",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-15T18:20:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
