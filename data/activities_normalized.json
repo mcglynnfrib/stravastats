@@ -38114,5 +38114,18 @@
     "start_date_local": "2026-09-18T19:09:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 21326.3,
+    "elevation_gain": 73.0,
+    "id": "20255751495",
+    "moving_time": 5383.0,
+    "name": "Cap city 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-20T08:00:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
