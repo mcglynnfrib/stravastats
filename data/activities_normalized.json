@@ -38127,5 +38127,31 @@
     "start_date_local": "2026-09-20T08:00:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 11169.9,
+    "elevation_gain": 46.0,
+    "id": "20343672615",
+    "moving_time": 3811.0,
+    "name": "Tonsilitis > Tendonitis",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-26T18:34:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 9432.6,
+    "elevation_gain": 38.0,
+    "id": "20354422561",
+    "moving_time": 3322.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-27T11:13:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
