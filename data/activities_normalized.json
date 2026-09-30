@@ -38166,5 +38166,18 @@
     "start_date_local": "2026-09-28T19:25:47Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 6507.9,
+    "elevation_gain": 29.0,
+    "id": "20385633031",
+    "moving_time": 2002.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T18:20:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -26423,6 +26423,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/20371681492",
       "year": 2026
+    },
+    {
+      "date": "2026-09-29",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20385633031",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45470,6 +45479,15 @@
           "distance": 9432.6,
           "elevation_gain": 38.0,
           "moving_time": 3322.0
+        },
+        "2026-09-29": {
+          "activity_ids": [
+            "20385633031"
+          ],
+          "count": 1,
+          "distance": 6507.9,
+          "elevation_gain": 29.0,
+          "moving_time": 2002.0
         }
       },
       "TrailRun": {
@@ -45885,7 +45903,7 @@
       }
     }
   },
-  "generated_at": "2026-09-29T19:43:15.139308+00:00",
+  "generated_at": "2026-09-30T19:45:10.459016+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
