@@ -38218,5 +38218,31 @@
     "start_date_local": "2026-10-02T09:34:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20426003300",
+    "moving_time": 5158.0,
+    "name": "Bouldering",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-10-02T18:20:41Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 25015.5,
+    "elevation_gain": 142.0,
+    "id": "20434772635",
+    "moving_time": 7970.0,
+    "name": "Nobody told me we were starting at 9",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T08:32:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

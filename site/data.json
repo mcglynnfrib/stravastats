@@ -26459,6 +26459,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20420460336",
       "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 18,
+      "name": "Bouldering",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/20426003300",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 8,
+      "name": "Nobody told me we were starting at 9",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20434772635",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43787,6 +43805,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4100.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20426003300"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 5158.0
         }
       },
       "Run": {
@@ -45542,6 +45569,15 @@
           "distance": 5544.5,
           "elevation_gain": 14.0,
           "moving_time": 2034.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20434772635"
+          ],
+          "count": 1,
+          "distance": 25015.5,
+          "elevation_gain": 142.0,
+          "moving_time": 7970.0
         }
       },
       "TrailRun": {
@@ -45957,7 +45993,7 @@
       }
     }
   },
-  "generated_at": "2026-10-02T19:41:19.128915+00:00",
+  "generated_at": "2026-10-03T18:27:47.357093+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
