@@ -26513,6 +26513,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20481655594",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20495264614",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 18,
+      "name": "Mixed miles",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20495815063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -43758,6 +43776,15 @@
           "distance": 14211.7,
           "elevation_gain": 77.0,
           "moving_time": 2167.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20495264614"
+          ],
+          "count": 1,
+          "distance": 9095.8,
+          "elevation_gain": 57.0,
+          "moving_time": 1466.0
         }
       },
       "RockClimbing": {
@@ -45650,6 +45677,15 @@
           "distance": 13010.0,
           "elevation_gain": 59.0,
           "moving_time": 4258.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20495815063"
+          ],
+          "count": 1,
+          "distance": 8274.6,
+          "elevation_gain": 31.0,
+          "moving_time": 2587.0
         }
       },
       "TrailRun": {
@@ -46065,7 +46101,7 @@
       }
     }
   },
-  "generated_at": "2026-10-07T20:20:56.217535+00:00",
+  "generated_at": "2026-10-08T20:23:40.038066+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
