@@ -38426,5 +38426,18 @@
     "start_date_local": "2026-10-16T18:16:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 42573.2,
+    "elevation_gain": 138.0,
+    "id": "20636329650",
+    "moving_time": 11903.0,
+    "name": "Detroit international marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-18T07:00:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -26603,6 +26603,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20613937136",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 7,
+      "name": "Detroit international marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20636329650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -45821,6 +45830,15 @@
           "distance": 4363.5,
           "elevation_gain": 15.0,
           "moving_time": 1531.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "20636329650"
+          ],
+          "count": 1,
+          "distance": 42573.2,
+          "elevation_gain": 138.0,
+          "moving_time": 11903.0
         }
       },
       "TrailRun": {
@@ -46245,7 +46263,7 @@
       }
     }
   },
-  "generated_at": "2026-10-17T17:39:34.077684+00:00",
+  "generated_at": "2026-10-18T17:41:36.443544+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
