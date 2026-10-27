@@ -38504,5 +38504,18 @@
     "start_date_local": "2026-10-24T09:06:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20744376244",
+    "moving_time": 4007.0,
+    "name": "Bouldering",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-10-26T18:41:00Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
