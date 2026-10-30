@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T19:58:56.300249+00:00",
+  "generated_at": "2026-10-30T19:47:12.886174+00:00",
   "years": {
     "2020": {
       "Ride": {
@@ -17279,6 +17279,15 @@
           "distance": 9177.2,
           "elevation_gain": 52.0,
           "moving_time": 1432.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20784264923"
+          ],
+          "count": 1,
+          "distance": 8870.6,
+          "elevation_gain": 57.0,
+          "moving_time": 1315.0
         }
       },
       "RockClimbing": {
@@ -19306,6 +19315,15 @@
           "distance": 7765.6,
           "elevation_gain": 30.0,
           "moving_time": 2846.0
+        },
+        "2026-10-29": {
+          "activity_ids": [
+            "20784797460"
+          ],
+          "count": 1,
+          "distance": 6943.5,
+          "elevation_gain": 39.0,
+          "moving_time": 2444.0
         }
       },
       "TrailRun": {
