@@ -38582,5 +38582,31 @@
     "start_date_local": "2026-10-29T18:16:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20797173431",
+    "moving_time": 6971.0,
+    "name": "Boulder",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-10-30T17:56:22Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 12943.9,
+    "elevation_gain": 44.0,
+    "id": "20804832120",
+    "moving_time": 4329.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-31T09:05:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
