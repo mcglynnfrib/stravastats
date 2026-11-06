@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:17:25.447297+00:00",
+  "generated_at": "2026-11-06T20:39:38.693321+00:00",
   "years": {
     "2020": {
       "Ride": {
@@ -19378,6 +19378,15 @@
           "distance": 7574.5,
           "elevation_gain": 35.0,
           "moving_time": 2556.0
+        },
+        "2026-11-05": {
+          "activity_ids": [
+            "20876024738"
+          ],
+          "count": 1,
+          "distance": 9299.1,
+          "elevation_gain": 27.0,
+          "moving_time": 2745.0
         }
       },
       "TrailRun": {

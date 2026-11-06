@@ -26765,6 +26765,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20863722400",
       "year": 2026
+    },
+    {
+      "date": "2026-11-05",
+      "hour": 17,
+      "name": "Threshold intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20876024738",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46145,6 +46154,15 @@
           "distance": 7574.5,
           "elevation_gain": 35.0,
           "moving_time": 2556.0
+        },
+        "2026-11-05": {
+          "activity_ids": [
+            "20876024738"
+          ],
+          "count": 1,
+          "distance": 9299.1,
+          "elevation_gain": 27.0,
+          "moving_time": 2745.0
         }
       },
       "TrailRun": {
@@ -46569,7 +46587,7 @@
       }
     }
   },
-  "generated_at": "2026-11-05T21:17:25.471207+00:00",
+  "generated_at": "2026-11-06T20:39:38.724375+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
