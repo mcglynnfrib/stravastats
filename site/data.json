@@ -26819,6 +26819,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20940596207",
       "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20953345743",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-11",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20953816184",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-12",
+      "hour": 12,
+      "name": "Speedwork",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20962567729",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -44109,6 +44136,15 @@
           "distance": 8870.6,
           "elevation_gain": 57.0,
           "moving_time": 1315.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20953345743"
+          ],
+          "count": 1,
+          "distance": 9040.6,
+          "elevation_gain": 58.0,
+          "moving_time": 1329.0
         }
       },
       "RockClimbing": {
@@ -46253,6 +46289,24 @@
           "distance": 8391.5,
           "elevation_gain": 43.0,
           "moving_time": 2503.0
+        },
+        "2026-11-11": {
+          "activity_ids": [
+            "20953816184"
+          ],
+          "count": 1,
+          "distance": 6109.1,
+          "elevation_gain": 17.0,
+          "moving_time": 2104.0
+        },
+        "2026-11-12": {
+          "activity_ids": [
+            "20962567729"
+          ],
+          "count": 1,
+          "distance": 5593.2,
+          "elevation_gain": 17.0,
+          "moving_time": 1675.0
         }
       },
       "TrailRun": {
@@ -46677,7 +46731,7 @@
       }
     }
   },
-  "generated_at": "2026-11-11T21:40:33.504606+00:00",
+  "generated_at": "2026-11-12T21:40:00.498574+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
