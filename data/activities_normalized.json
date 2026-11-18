@@ -38829,5 +38829,18 @@
     "start_date_local": "2026-11-16T17:40:49Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 8210.7,
+    "elevation_gain": 36.0,
+    "id": "21028681398",
+    "moving_time": 2437.0,
+    "name": "Unmotivated speed session",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T18:21:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
