@@ -26891,6 +26891,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21028681398",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21040897691",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-19",
+      "hour": 16,
+      "name": "Easy w strides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21052190141",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46397,6 +46415,24 @@
           "distance": 8210.7,
           "elevation_gain": 36.0,
           "moving_time": 2437.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21040897691"
+          ],
+          "count": 1,
+          "distance": 5897.0,
+          "elevation_gain": 24.0,
+          "moving_time": 2127.0
+        },
+        "2026-11-19": {
+          "activity_ids": [
+            "21052190141"
+          ],
+          "count": 1,
+          "distance": 9878.8,
+          "elevation_gain": 66.0,
+          "moving_time": 3465.0
         }
       },
       "TrailRun": {
@@ -46821,7 +46857,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T22:26:18.870959+00:00",
+  "generated_at": "2026-11-19T22:30:54.048516+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/56403959",
   "repo": "mcglynnfrib/stravastats",
